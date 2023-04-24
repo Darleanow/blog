@@ -3,7 +3,7 @@ title: "Variables and Constants in C++"
 seoTitle: "Variables, constants and scopes in C++"
 datePublished: Mon Apr 24 2023 13:04:11 GMT+0000 (Coordinated Universal Time)
 cuid: clguunvv900020amigmz8cgmm
-slug: variables-and-constants-in-c
+slug: variables-and-constants-in-cpp
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682339383494/a1721cc2-8c40-47fc-af14-2a9db0d6ef68.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682341432723/1a26ac48-fc93-4f82-a1b8-5a990094db0d.jpeg
 tags: cpp, programming-blogs, variables-and-constants
