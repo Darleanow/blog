@@ -3,7 +3,7 @@ title: "Understanding Data Types in C++"
 seoTitle: "Data types in C++"
 datePublished: Mon Apr 24 2023 11:51:04 GMT+0000 (Coordinated Universal Time)
 cuid: clgus1uqu001a09mkhqhp1ooz
-slug: understanding-data-types-in-c
+slug: understanding-data-types-in-cpp
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682335880225/41e5a276-c523-4991-a327-42c2d8d7a31a.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682337031322/abf97927-4f26-49aa-beba-0c55e2eef728.jpeg
 tags: cpp, data-types, programming-basics
