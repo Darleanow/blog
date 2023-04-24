@@ -3,7 +3,7 @@ title: "Functions in C++"
 seoTitle: "Functions in C++"
 datePublished: Mon Apr 24 2023 14:17:30 GMT+0000 (Coordinated Universal Time)
 cuid: clguxa5qo000f09li9cqu4bwq
-slug: functions-in-c
+slug: functions-in-cpp
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682345839494/f52fb180-5c8c-4e5a-8879-448ae061098b.jpeg
 tags: functions, programming-blogs, cpp-ck4ra5k7300nlv2s1jbkdp2qh
 
