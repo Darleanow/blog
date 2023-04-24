@@ -4,7 +4,8 @@ seoTitle: "Functions in C++"
 datePublished: Mon Apr 24 2023 14:17:30 GMT+0000 (Coordinated Universal Time)
 cuid: clguxa5qo000f09li9cqu4bwq
 slug: functions-in-cpp
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682345839494/f52fb180-5c8c-4e5a-8879-448ae061098b.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682345914473/9c8fa49c-27ee-4edb-92d6-d2c26eeac0ae.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682345923152/872c32e7-9c74-432d-b981-a70be4aaa2e3.jpeg
 tags: functions, programming-blogs, cpp-ck4ra5k7300nlv2s1jbkdp2qh
 
 ---
