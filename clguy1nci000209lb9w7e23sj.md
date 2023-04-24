@@ -3,7 +3,7 @@ title: "Exploring Templates in C++"
 seoTitle: "C++ templates overview"
 datePublished: Mon Apr 24 2023 14:38:52 GMT+0000 (Coordinated Universal Time)
 cuid: clguy1nci000209lb9w7e23sj
-slug: exploring-templates-in-c
+slug: exploring-templates-in-cpp
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682346717936/1b05b39b-f995-4d9b-953d-2b6bf0b5e63b.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682347116341/7c5c4ce8-a77d-42ff-aef9-57f89fa86d3c.jpeg
 tags: templates, programming-blogs, cpp-ck4ra5k7300nlv2s1jbkdp2qh
