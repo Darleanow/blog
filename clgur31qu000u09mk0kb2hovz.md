@@ -4,6 +4,7 @@ seoTitle: "C++ basics"
 datePublished: Mon Apr 24 2023 11:24:00 GMT+0000 (Coordinated Universal Time)
 cuid: clgur31qu000u09mk0kb2hovz
 slug: introduction-to-basic-syntax-in-c
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682335732858/fdfa2fcd-fc7b-44e7-84e4-37101c01f973.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682335645160/d2dd8de3-e8c6-4a91-950c-c97b8bec1878.jpeg
 tags: cpp, programming-blogs, intro-to-programming
 
