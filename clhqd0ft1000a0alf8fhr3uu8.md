@@ -11,6 +11,24 @@ tags: cpp, sfml, raycasting
 
 Raycasting is a core technique used in computer graphics and game development. It's like casting a line into a scene to find out what it hits. A ray cast can answer questions like "What object is under the mouse cursor?" or "What's in the player's field of view?" Today, we'll delve into the fascinating world of raycasting, focusing on 2D and 2.5D engines. We'll explore how they work, key algorithms, and how you can build your engines.
 
+##   
+Mathematical Underpinnings of Raycasting
+
+Raycasting may seem like a primarily graphical technique, but at its heart, it's a mathematical process. To truly understand raycasting, we need to delve into the mathematical principles it's based upon.
+
+1. **Ray Casting**: The fundamental math operation in raycasting is the projection of a ray from a point in a specific direction. A ray in 2D can be represented as a vector originating from a point. This vector is typically defined by an angle from a reference direction. For example, if we take the positive x-axis as our reference, a ray cast at a 45-degree angle would be represented by the vector (cos(45), sin(45)).
+    
+2. **Intersection Tests**: The next mathematical operation is determining whether and where a ray intersects with a line segment (representing a wall). This can be done using line-line intersection formulas derived from the equations of the two lines. One common approach is to use the parametric form of the line equation and solve for the point of intersection.
+    
+3. **Distance Calculations**: Once an intersection point is found, we calculate its distance from the origin of the ray. This can be done using the Euclidean distance formula. In a 2.5D raycasting engine, this distance is used to calculate the height of the wall slice to be drawn.
+    
+4. **Perspective Projection**: In a 2.5D raycasting engine, we also need to create the illusion of 3D perspective. This is done by drawing the wall slices taller as they get closer to the player. The height of a wall slice is inversely proportional to its distance from the player, creating a simple perspective projection.
+    
+5. **Fishbowl Correction**: A common issue with raycasting is a distortion known as the "fishbowl effect," where lines that should appear straight are curved. This happens because rays are cast in a fan-like pattern, but the distances are calculated as if they were all perpendicular to the player's view. This effect can be corrected by multiplying the calculated distance by cos(BETA), where BETA is the difference between the angle of the ray and the player's viewing angle.
+    
+
+Understanding these mathematical principles can provide a deeper insight into how raycasting works and how it can be tweaked and optimized for various applications.
+
 ## Building a 2D Raycast Engine
 
 Creating a 2D ray cast engine involves several steps:
