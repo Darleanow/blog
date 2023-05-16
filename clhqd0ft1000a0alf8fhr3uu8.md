@@ -35,12 +35,11 @@ Creating a 2.5D ray cast engine involves a few more steps, building upon the 2D 
 * **Rendering the View**: Finally, we draw vertical slices of walls on the screen, where each slice corresponds to a ray. The result is a 3D perspective created from 2D information, hence the term "2.5D."
     
 
-##   
 Exploring the Engines
 
 Let's take a look at two fantastic implementations of raycasting engines by me, available on GitHub: a 2D Raycast Engine and a 2.5D Raycast Engine. Both projects are excellent examples of raycasting in action and can serve as a great learning resource for anyone interested in the subject.
 
-* **2D Raycast Engine**: In this project, Darleanow implements a 2D raycasting engine using the SFML library. The engine casts rays from a point source, checks for intersections with walls and displays the result. The interactive nature of the project allows you to move the point source around and observe how the rays interact with the environment. The visualization provides a clear, intuitive understanding of how 2D raycasting works. You can check out the source code [**here**](https://github.com/Darleanow/UselessSFMLProjects/tree/main/2D%20raycast%20Engine).
+* **2D Raycast Engine**: In this project, I implemented a 2D raycasting engine using the SFML library. The engine casts rays from a point source, checks for intersections with walls and displays the result. The interactive nature of the project allows you to move the point source around and observe how the rays interact with the environment. The visualization provides a clear, intuitive understanding of how 2D raycasting works. You can check out the source code [**here**](https://github.com/Darleanow/UselessSFMLProjects/tree/main/2D%20raycast%20Engine).
     
 * **2.5D Raycast Engine**: Moving onto the 2.5D Raycast Engine, the project takes things a step further. It demonstrates how to use 2D raycasting to create a 3D perspective, reminiscent of classic first-person shooter games. The engine casts rays across the field of view, calculates wall slice heights based on distance, and renders the view with simple shading for depth perception. The result is a simple, yet effective 3D environment. Explore the project's source code [**here**](https://github.com/Darleanow/2.5D-Raycast-Engine).
     
