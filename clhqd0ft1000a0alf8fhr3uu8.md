@@ -11,8 +11,7 @@ tags: cpp, sfml, raycasting
 
 Raycasting is a core technique used in computer graphics and game development. It's like casting a line into a scene to find out what it hits. A ray cast can answer questions like "What object is under the mouse cursor?" or "What's in the player's field of view?" Today, we'll delve into the fascinating world of raycasting, focusing on 2D and 2.5D engines. We'll explore how they work, key algorithms, and how you can build your engines.
 
-##   
-Mathematical Underpinnings of Raycasting
+## Mathematical Underpinnings of Raycasting
 
 Raycasting may seem like a primarily graphical technique, but at its heart, it's a mathematical process. To truly understand raycasting, we need to delve into the mathematical principles it's based upon.
 
